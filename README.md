@@ -1,6 +1,6 @@
 # Retail Sales Intelligence Project
 
-**Author:** Aziz Iben Hadj Abdallah | **Year:** 2025
+**Author:** Aziz Iben Hadj Abdallah | **Year:** 2026
 
 ---
 
